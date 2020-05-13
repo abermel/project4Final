@@ -1,0 +1,31 @@
+9
+BrighamYoung
+FloridaState
+Iowa
+KansasState
+NewMexico
+TexasTech
+PennState
+Virginia
+ArizonaState
+[undirected]
+BrighamYoung FloridaState 1
+BrighamYoung NewMexico 2
+BrighamYoung Virginia 6
+FloridaState NewMexico 14
+FloridaState Virginia 15
+Iowa KansasState 24
+Iowa PennState 25
+Iowa Virginia 18
+KansasState TexasTech 18
+KansasState ArizonaState 12
+KansasState NewMexico 16
+NewMexico TexasTech 12
+NewMexico PennState 6
+NewMexico Iowa 12
+NewMexico TexasTech 10
+TexasTech BrighamYoung 6
+PennState KansasState 8
+PennState Virginia 4
+ArizonaState Iowa 17
+ArizonaState TexasTech 21

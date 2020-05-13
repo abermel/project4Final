@@ -1,0 +1,68 @@
+20
+BrighamYoung
+FloridaState
+Iowa
+KansasState
+NewMexico
+TexasTech
+PennState
+Virginia
+ArizonaState
+Clemson
+Miami
+SMU
+Georgia
+Alabama
+NotreDame
+Baylor
+UCLA
+SanDiego
+Pepperdine
+Villanova
+[undirected]
+BrighamYoung FloridaState 1
+BrighamYoung NewMexico 2
+BrighamYoung Virginia 6
+FloridaState NewMexico 14
+FloridaState Virginia 15
+Iowa KansasState 24
+Iowa PennState 25
+Iowa Virginia 18
+KansasState TexasTech 18
+KansasState ArizonaState 12
+KansasState NewMexico 16
+NewMexico TexasTech 12
+NewMexico PennState 6
+NewMexico Iowa 12
+NewMexico TexasTech 10
+TexasTech BrighamYoung 6
+PennState KansasState 8
+PennState Virginia 4
+ArizonaState Iowa 17
+ArizonaState TexasTech 21
+Clemson Miami 8
+Clemson KansasState 13
+Clemson PennState 4
+Miami Iowa 6
+Miami SMU 16
+SMU NewMexico 17
+SMU ArizonaState 8
+SMU TexasTech 13
+SMU FloridaState 23
+SMU BrighamYoung 15
+Georgia SMU 3
+Georgia Alabama 9
+Alabama TexasTech 11
+NotreDame Iowa 3
+NotreDame FloridaState 22
+NotreDame Clemson 1
+Baylor SMU 3
+UCLA Georgia 4
+SanDiego FloridaState 5
+Pepperdine Clemson 6
+Villanova NotreDame 7
+Baylor PennState 8
+UCLA Miami 11
+SanDiego Alabama 14
+Pepperdine ArizonaState 17
+Villanova BrighamYoung 19

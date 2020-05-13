@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amandabermel/Desktop/project4Final/main.cpp
+runCode.h
+/Users/amandabermel/Desktop/project4Final/runCode.h
+chrono
+-
+
+/Users/amandabermel/Desktop/project4Final/runCode.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+

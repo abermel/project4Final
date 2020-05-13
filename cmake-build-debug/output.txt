@@ -1,0 +1,568 @@
+5
+A
+B
+C
+D
+E
+DIJKSTRA
+minimum distances from vertex: A
+Vertex: A	Distance: 0
+Vertex: B	Distance: 3
+Vertex: C	Distance: 7
+Vertex: D	Distance: 1
+Vertex: E	Distance: 2
+
+BELLMAN-FORD 
+minimum distances from vertex: A
+Vertex: A	Distance: 0
+Vertex: B	Distance: 3
+Vertex: C	Distance: 7
+Vertex: D	Distance: 1
+Vertex: E	Distance: 2
+
+
+5
+A
+B
+C
+D
+E
+DIJKSTRA
+minimum distances from vertex: A
+Vertex: A	Distance: 0
+Vertex: B	Distance: 3
+Vertex: C	Distance: 2
+Vertex: D	Distance: 5
+Vertex: E	Distance: 6
+
+BELLMAN-FORD 
+minimum distances from vertex: A
+Vertex: A	Distance: 0
+Vertex: B	Distance: 3
+Vertex: C	Distance: 2
+Vertex: D	Distance: 5
+Vertex: E	Distance: 6
+
+
+6
+S
+A
+B
+C
+D
+E
+DIJKSTRA
+minimum distances from vertex: S
+Vertex: S	Distance: 0
+Vertex: A	Distance: 10
+Vertex: B	Distance: 11
+Vertex: C	Distance: 10
+Vertex: D	Distance: 9
+Vertex: E	Distance: 8
+
+BELLMAN-FORD 
+minimum distances from vertex: S
+Vertex: S	Distance: 0
+Vertex: A	Distance: 10
+Vertex: B	Distance: 11
+Vertex: C	Distance: 10
+Vertex: D	Distance: 9
+Vertex: E	Distance: 8
+
+
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+DIJKSTRA
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 8
+Vertex: 12	Distance: 7
+Vertex: 13	Distance: 8
+Vertex: 14	Distance: 10
+Vertex: 15	Distance: 6
+
+BELLMAN-FORD 
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 8
+Vertex: 12	Distance: 7
+Vertex: 13	Distance: 8
+Vertex: 14	Distance: 10
+Vertex: 15	Distance: 6
+
+
+20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+DIJKSTRA
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 8
+Vertex: 12	Distance: 7
+Vertex: 13	Distance: 8
+Vertex: 14	Distance: 5
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 7
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 4
+Vertex: 20	Distance: 4
+
+BELLMAN-FORD 
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 8
+Vertex: 12	Distance: 7
+Vertex: 13	Distance: 8
+Vertex: 14	Distance: 5
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 7
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 4
+Vertex: 20	Distance: 4
+
+
+25
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+DIJKSTRA
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 4
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 5
+Vertex: 12	Distance: 10
+Vertex: 13	Distance: 6
+Vertex: 14	Distance: 6
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 11
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 9
+Vertex: 20	Distance: 5
+Vertex: 21	Distance: 4
+Vertex: 22	Distance: 7
+Vertex: 23	Distance: 11
+Vertex: 24	Distance: 2
+Vertex: 25	Distance: 8
+
+BELLMAN-FORD 
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 4
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 5
+Vertex: 12	Distance: 10
+Vertex: 13	Distance: 6
+Vertex: 14	Distance: 6
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 11
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 9
+Vertex: 20	Distance: 5
+Vertex: 21	Distance: 4
+Vertex: 22	Distance: 7
+Vertex: 23	Distance: 11
+Vertex: 24	Distance: 2
+Vertex: 25	Distance: 8
+
+
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+DIJKSTRA
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 4
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 5
+Vertex: 12	Distance: 10
+Vertex: 13	Distance: 6
+Vertex: 14	Distance: 6
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 11
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 9
+Vertex: 20	Distance: 5
+Vertex: 21	Distance: 4
+Vertex: 22	Distance: 7
+Vertex: 23	Distance: 11
+Vertex: 24	Distance: 2
+Vertex: 25	Distance: 8
+Vertex: 26	Distance: 10
+Vertex: 27	Distance: 13
+Vertex: 28	Distance: 15
+Vertex: 29	Distance: 9
+Vertex: 30	Distance: 5
+
+BELLMAN-FORD 
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 4
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+Vertex: 11	Distance: 5
+Vertex: 12	Distance: 10
+Vertex: 13	Distance: 6
+Vertex: 14	Distance: 6
+Vertex: 15	Distance: 6
+Vertex: 16	Distance: 8
+Vertex: 17	Distance: 11
+Vertex: 18	Distance: 6
+Vertex: 19	Distance: 9
+Vertex: 20	Distance: 5
+Vertex: 21	Distance: 4
+Vertex: 22	Distance: 7
+Vertex: 23	Distance: 11
+Vertex: 24	Distance: 2
+Vertex: 25	Distance: 8
+Vertex: 26	Distance: 10
+Vertex: 27	Distance: 13
+Vertex: 28	Distance: 15
+Vertex: 29	Distance: 9
+Vertex: 30	Distance: 5
+
+
+9
+BrighamYoung
+FloridaState
+Iowa
+KansasState
+NewMexico
+TexasTech
+PennState
+Virginia
+ArizonaState
+DIJKSTRA
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 27
+
+BELLMAN-FORD 
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 27
+
+
+15
+BrighamYoung
+FloridaState
+Iowa
+KansasState
+NewMexico
+TexasTech
+PennState
+Virginia
+ArizonaState
+Clemson
+Miami
+SMU
+Georgia
+Alabama
+NotreDame
+DIJKSTRA
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 23
+Vertex: Clemson	Distance: 12
+Vertex: Miami	Distance: 20
+Vertex: SMU	Distance: 15
+Vertex: Georgia	Distance: 18
+Vertex: Alabama	Distance: 17
+Vertex: NotreDame	Distance: 13
+
+BELLMAN-FORD 
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 23
+Vertex: Clemson	Distance: 12
+Vertex: Miami	Distance: 20
+Vertex: SMU	Distance: 15
+Vertex: Georgia	Distance: 18
+Vertex: Alabama	Distance: 17
+Vertex: NotreDame	Distance: 13
+
+
+20
+BrighamYoung
+FloridaState
+Iowa
+KansasState
+NewMexico
+TexasTech
+PennState
+Virginia
+ArizonaState
+Clemson
+Miami
+SMU
+Georgia
+Alabama
+NotreDame
+Baylor
+UCLA
+SanDiego
+Pepperdine
+Villanova
+DIJKSTRA
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 23
+Vertex: Clemson	Distance: 12
+Vertex: Miami	Distance: 20
+Vertex: SMU	Distance: 15
+Vertex: Georgia	Distance: 18
+Vertex: Alabama	Distance: 17
+Vertex: NotreDame	Distance: 13
+Vertex: Baylor	Distance: 16
+Vertex: UCLA	Distance: 22
+Vertex: SanDiego	Distance: 6
+Vertex: Pepperdine	Distance: 18
+Vertex: Villanova	Distance: 19
+
+BELLMAN-FORD 
+minimum distances from vertex: BrighamYoung
+Vertex: BrighamYoung	Distance: 0
+Vertex: FloridaState	Distance: 1
+Vertex: Iowa	Distance: 14
+Vertex: KansasState	Distance: 16
+Vertex: NewMexico	Distance: 2
+Vertex: TexasTech	Distance: 6
+Vertex: PennState	Distance: 8
+Vertex: Virginia	Distance: 6
+Vertex: ArizonaState	Distance: 23
+Vertex: Clemson	Distance: 12
+Vertex: Miami	Distance: 20
+Vertex: SMU	Distance: 15
+Vertex: Georgia	Distance: 18
+Vertex: Alabama	Distance: 17
+Vertex: NotreDame	Distance: 13
+Vertex: Baylor	Distance: 16
+Vertex: UCLA	Distance: 22
+Vertex: SanDiego	Distance: 6
+Vertex: Pepperdine	Distance: 18
+Vertex: Villanova	Distance: 19
+
+
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+DIJKSTRA
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+
+BELLMAN-FORD 
+minimum distances from vertex: 1
+Vertex: 1	Distance: 0
+Vertex: 2	Distance: 1
+Vertex: 3	Distance: 4
+Vertex: 4	Distance: 1
+Vertex: 5	Distance: 3
+Vertex: 6	Distance: 6
+Vertex: 7	Distance: 3
+Vertex: 8	Distance: 3
+Vertex: 9	Distance: 1
+Vertex: 10	Distance: 4
+
+

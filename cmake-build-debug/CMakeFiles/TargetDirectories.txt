@@ -1,0 +1,3 @@
+/Users/amandabermel/Desktop/project4Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amandabermel/Desktop/project4Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amandabermel/Desktop/project4Final/cmake-build-debug/CMakeFiles/project4Final.dir
